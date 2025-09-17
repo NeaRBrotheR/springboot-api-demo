@@ -1,0 +1,52 @@
+[
+  {
+    "nickname": "playerOne",
+    "password": "pw12345",
+    "user": {
+      "name": "Alice Chen",
+      "email": "alice@example.com",
+      "address": "Taipei",
+      "sex": "female"
+    }
+  },
+  {
+    "nickname": "dragonSlayer",
+    "password": "pw67890",
+    "user": {
+      "name": "Bob Lin",
+      "email": "bob@example.com",
+      "address": "Kaohsiung",
+      "sex": "male"
+    }
+  },
+  {
+    "nickname": "shadowNinja",
+    "password": "ninja999",
+    "user": {
+      "name": "Charlie Wang",
+      "email": "charlie@example.com",
+      "address": "Taichung",
+      "sex": "male"
+    }
+  },
+  {
+    "nickname": "magicQueen",
+    "password": "magic888",
+    "user": {
+      "name": "Diana Wu",
+      "email": "diana@example.com",
+      "address": "Tainan",
+      "sex": "female"
+    }
+  },
+  {
+    "nickname": "ironFist",
+    "password": "iron777",
+    "user": {
+      "name": "Edward Huang",
+      "email": "edward@example.com",
+      "address": "Hsinchu",
+      "sex": "male"
+    }
+  }
+]
